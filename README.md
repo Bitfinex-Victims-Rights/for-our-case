@@ -10,6 +10,8 @@ Most of the victims had 1 BTC or less, and might never noticed the court case un
 the company denied to simply inform the victims, 
 which the gov apparently tolerated yet. 
 
+<img src="https://github.com/user-attachments/assets/08b59b7c-d3f5-48ff-a93d-45f3fd1c34d2" height="200">
+
 ( Meanwhile by 2025 the same company also replaced the FED somewhat by issuing $140B USDt.)
 
 Help us work: [Issues](https://github.com/Bitfinex-Victims-Rights/work/issues) (Threads / Tasks)
@@ -19,7 +21,7 @@ you can let us know your case here: [https://docs.google.com/spreadsheets/d/1JDU
  
 
 
-<img src="https://github.com/user-attachments/assets/08b59b7c-d3f5-48ff-a93d-45f3fd1c34d2" height="200">
+
 
 
 
